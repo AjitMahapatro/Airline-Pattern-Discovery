@@ -1,4 +1,4 @@
-# ✈️ Operational Pattern Discovery System
+# ✈️ Airline Pattern Discovery System
 
 ### 📌 Project Overview
 This project applies **Unsupervised Learning** to large-scale aviation datasets to move beyond basic reporting. Instead of just seeing *that* a delay happened, this system discovers the hidden "If-Then" patterns (Association Rules) that explain **why** they happen across complex variables like Carrier, Origin, and Destination.
