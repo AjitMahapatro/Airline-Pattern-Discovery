@@ -18,5 +18,4 @@ The model isolated specific **Carrier-Route combinations** that exhibited a **90
 * **Libraries:** MLxtend (FP-Growth), Pandas, NumPy, NetworkX, Matplotlib
 * **Data Source:** Airline On-Time Performance Data (Transactional Logs)
 
----
-**Note:** The raw dataset is over 25MB and is excluded from this repository for performance; however, all logic and pattern discovery scripts are fully documented in the `.ipynb` file.
+
